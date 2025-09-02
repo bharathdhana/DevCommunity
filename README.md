@@ -30,6 +30,4 @@ The design is clean and modern, with consistent colors and a sticky navigation b
 7. Form Section  
 8. Footer  
 
----
 
-## 📂 Project Structure
